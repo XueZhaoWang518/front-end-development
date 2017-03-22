@@ -1,0 +1,52 @@
+             body{ background-color:#d2b48c;   }
+             p{
+               
+                   
+                    font-family:sans-serif;
+                    font-size:17px;
+               }
+             h1
+                {
+                     font-family:Fantasy;
+                     color:maroon;
+                     font-size:30px;
+                     font-weight:bolder
+                
+                     border-bottom:1px solid black;
+                }
+              h2
+                {    font-family:Cursive;
+                     color:olive;
+                     font-size:21px;
+                     font-weight:normal;
+                 }
+             #elixirs
+                {
+                    border-width:thin;
+                    border-style:solid;
+                    border-color:#007e7e;
+                    width:200px;
+                    padding-right:20px;
+                    padding-bottom:20px;
+                    padding-left:20px;
+                    margin=left:20px;
+                    text-align:center;
+                    line-height:1;
+                    float:right;
+
+                }
+             #elixirs h1{
+                     color:black;
+               }
+             #elixirs h2{
+                     color:#d12c47;
+               } 
+          
+              a:link{
+                      color:green;}
+              a:visited{
+                      color:red;}
+              a:hover{
+                      color:yellow;
+                      background:red;}
+

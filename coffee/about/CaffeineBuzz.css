@@ -1,0 +1,43 @@
+body{
+      font-size:medium;
+      font-family:Verdana,Geneva,Arial,sans-serif;
+      color:black;
+      line-height:1.9em;
+      background-image:url(text.jpg);
+      background-repeat:repeat;
+      
+      
+     }
+h1{
+     font-size:x-large;
+     font-family:Impact,Fantasy;
+     color:navy;
+     text-decoration:underline;
+  }
+h2{
+     font-size:large;
+     font-family:"Courier New",Monospace;
+     color:maroon;
+   }
+ol{
+      font-style:italic;
+      padding:10px 10px 10px 10px;
+      margin:30px;
+      border-style:groove;
+      border-width:thin;
+      border-color:red;
+      border-radius:15px;
+   }
+.line{
+     color:green;
+     font-weight:bold;
+     font-family:"Apple Chancery",Cursive;
+   }
+p{
+      padding:10px 10px 10px 10px;
+      margin:30px;
+      border-style:groove;
+      border-width:thin;
+      border-color:red;
+      border-radius:15px;
+}
